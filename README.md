@@ -73,14 +73,16 @@ Frendy is currently a junior majoring in Information System and Technology at Ba
 
 ### Tech Stack That I Plan to Learn
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![CodeceptJs](https://img.shields.io/badge/codecept%20js-F6E05E?style=for-the-badge&logo=codeceptjs&logoColor=000)
 
 
 ## 🏆 My Github Stats
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=frendysanusi&theme=modern-lilac)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![trophy](https://github-profile-trophy.vercel.app/?username=frendysanusi&margin-w=15&column=8&theme=modern-lilac)](https://github.com/ryo-ma/github-profile-trophy)
 <p align = "center">
  <img src="https://github-readme-stats.vercel.app/api?username=frendysanusi&show_icons=true&count_private=true&theme=modern-lilac&include_all_commits=true&custom_title=Frendy's%20Stats" alt="GitHub Stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frendysanusi&langs_count=8&layout=compact&theme=modern-lilac&hide=Jupyter%20Notebook,css,blade&custom_title=Frendy's%20most%20used%20languages" alt="GitHub Stats Language">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frendysanusi&langs_count=8&layout=compact&theme=modern-lilac&hide=Jupyter%20Notebook,css,blade,Hack&custom_title=Frendy's%20most%20used%20languages" alt="GitHub Stats Language">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frendysanusi&theme=modern-lilac&hide_border=false" alt="GitHub Stats streak">
 <p>
 
