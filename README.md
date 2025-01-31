@@ -1,23 +1,37 @@
 # Hi My name is Frendy👋
 
-Frendy is currently a junior majoring in Information System and Technology at Bandung Institute of Technology (ITB). He has a deep interest in the realm of software engineering and data and actively explores cybersecurity, evident in his projects and active participation in Capture the Flag competitions. Committed to continuous learning, he aims to leverage his skills and knowledge to make a positive impact in the tech industry.
+Frendy is currently a final-year student majoring in Information System and Technology at Bandung Institute of Technology (ITB). He has a deep interest in the realm of software engineering and data and actively explores cybersecurity, evident in his projects and active participation in Capture the Flag competitions. Committed to continuous learning, he aims to leverage his skills and knowledge to make a positive impact in the tech industry.
 
 ![](https://komarev.com/ghpvc/?username=frendysanusi&base=1050&color=green&style=flat-square&label=PROFILE+VIEWS)
 
-## 🧾 Featured Project
+## 🏢 Experiences
+| Roles | Company | Duration |
+| :---: | :-----: | :------: |
+| Software Engineer Intern | [Jaswita Jabar](https://jaswitajabar.co.id/) | Sep 2024 - Dec 2024 |
+| Software Engineer Intern | [Eresto](https://eresto.id/) | Jun 2024 - Aug 2024 |
+| Full Stack Web Developer | [Pragma Informatika](https://pragmainf.id/) | Jan 2023 - May 2023 |
 
+## 🧾 Featured Projects
+### Software Engineering Projects
 | Name | Tech Stack |
 | :-------------: |:-------------:|
-| [UniMap](https://github.com/Project-UniMap/UniMap-mobile) | React Native, Typescript, JOSM, Supabase
-| [Menyala](https://github.com/frendysanusi/menyala) | React Native, Typescript
+| D'Journey Mobile App | React Native, Express.js, MySQL |
+| [D'Journey Website](https://djourney.id/web/) | CodeIgniter 3, MySQL |
+| Mobile E-Commerce & Beauty Advisor App | React Native, Ruby on Rails, Firebase, PostgreSQL, Docker |
+| [HMIF Super App Backend](https://github.com/hmif-itb/hmif-app-be) | Hono, Drizzle, Zod, TypeScript, PostgreSQL, Pandas |
 | [PVVD App](https://github.com/frendysanusi/pvvd-app) | Flutter, Firebase, Dart
 | [Hejokeun](https://github.com/frendysanusi/hejokeun) | Flutter, Firebase, Dart
 | [TST Apothecary](https://github.com/frendysanusi/ci-pharmacy) | CodeIgniter 4, PHP, Tailwind, MySQL, Docker
 | [TST Hospital](https://github.com/frendysanusi/ci-hospital) | CodeIgniter 4, PHP, Tailwind, MySQL, Docker
 | [Wäsche Waschen](https://github.com/rasyadanfz/Wasche-waschen) | NextJS, React, Typescript, Tailwind, MongoDB, Cypress
-| [Single Service](https://github.com/frendysanusi/SingleService-Backend) | Go, Gin, GORM, Docker
+| [Single Service Backend](https://github.com/frendysanusi/SingleService-Backend) | Go, Gin, GORM, Docker
 
-## 💻 My Tech Stack
+### Data Science, AI, and Machine Learning Projects
+| Name | Tech Stack |
+| :--: | :--------: |
+| [Used Car Price Regression](https://github.com/frendysanusi/used-car-price-regression) | Python |
+
+## 💻 My Tech Stacks
 
 ### Programming Language
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -29,6 +43,7 @@ Frendy is currently a junior majoring in Information System and Technology at Ba
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
  
 ### Web Development
@@ -44,6 +59,7 @@ Frendy is currently a junior majoring in Information System and Technology at Ba
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
@@ -72,19 +88,14 @@ Frendy is currently a junior majoring in Information System and Technology at Ba
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 
 ### Tech Stack That I Plan to Learn
+![Dotnet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![CodeceptJs](https://img.shields.io/badge/codecept%20js-F6E05E?style=for-the-badge&logo=codeceptjs&logoColor=000)
 
 
 ## 🏆 My Github Stats
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=frendysanusi&theme=modern-lilac)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<p align = "center">
- <img src="https://github-readme-stats.vercel.app/api?username=frendysanusi&show_icons=true&count_private=true&theme=modern-lilac&include_all_commits=true&custom_title=Frendy's%20Stats" alt="GitHub Stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frendysanusi&langs_count=8&layout=compact&theme=modern-lilac&hide=Jupyter%20Notebook,css,blade,Hack&custom_title=Frendy's%20most%20used%20languages" alt="GitHub Stats Language">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=frendysanusi&theme=modern-lilac&hide_border=false" alt="GitHub Stats streak">
-<p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=frendysanusi&margin-w=15&column=8&theme=modern-lilac)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## ✨ Find me on social media:
 <a href="https://www.linkedin.com/in/frendysanusi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
