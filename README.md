@@ -2,11 +2,12 @@
 
 Frendy is currently a final-year student majoring in Information System and Technology at Bandung Institute of Technology (ITB). He has a deep interest in the realm of software engineering and data and actively explores cybersecurity, evident in his projects and active participation in Capture the Flag competitions. Committed to continuous learning, he aims to leverage his skills and knowledge to make a positive impact in the tech industry.
 
-![](https://komarev.com/ghpvc/?username=frendysanusi&base=1050&color=green&style=flat-square&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=frendysanusi&base=0&color=green&style=flat-square&label=PROFILE+VIEWS)
 
 ## 🏢 Experiences
 | Roles | Company | Duration |
 | :---: | :-----: | :------: |
+| Backend Engineer | [Marina Chain](https://www.marinachain.io/) | March 2025 - Present |
 | Software Engineer Intern | [Jaswita Jabar](https://jaswitajabar.co.id/) | Sep 2024 - Dec 2024 |
 | Software Engineer Intern | [Eresto](https://eresto.id/) | Jun 2024 - Aug 2024 |
 | Full Stack Web Developer | [Pragma Informatika](https://pragmainf.id/) | Jan 2023 - May 2023 |
@@ -50,6 +51,7 @@ Frendy is currently a final-year student majoring in Information System and Tech
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Drizzle](https://img.shields.io/badge/drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 ![ExpressJS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Hono](https://img.shields.io/badge/hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
@@ -89,7 +91,8 @@ Frendy is currently a final-year student majoring in Information System and Tech
 
 ### Tech Stack That I Plan to Learn
 ![Dotnet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 
 
