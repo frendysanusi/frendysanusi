@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:0070f3&height=200&section=header&text=Frendy%20Sanusi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:0070f3&height=200&section=header&text=Frendy&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=50" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=520&lines=I'm+a+Software+Engineer+%F0%9F%92%BB;I'm+a+Backend+Engineer+%F0%9F%9B%A0%EF%B8%8F;I'm+an+AI+Engineer+%F0%9F%A4%96;I'm+a+Cybersecurity+Enthusiast+%F0%9F%94%90" alt="Typing SVG" />
 
