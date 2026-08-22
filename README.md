@@ -1,87 +1,29 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:0070f3&height=200&section=header&text=Frendy&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=50" />
+# 👋 Hey, Frendy here
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=520&lines=I'm+a+Software+Engineer+%F0%9F%92%BB;I'm+a+Backend+Engineer+%F0%9F%9B%A0%EF%B8%8F;I'm+an+AI+Engineer+%F0%9F%A4%96;I'm+a+Cybersecurity+Enthusiast+%F0%9F%94%90" alt="Typing SVG" />
+Software engineer shipping a live AI SaaS product end to end — backend, AI pipelines, and the infrastructure under both. I play CTFs, mostly forensics, and that habit leaks into everything I build: I tend to find the hole before I ship the feature.
 
-  <br/>
-  <br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Software%20Engineer-MarinaChain-0070f3?style=flat-square&logo=icloud&logoColor=white" alt="Role" />
+  <img src="https://img.shields.io/badge/Based%20in-Indonesia-orange?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Currently%20exploring-AI%20Engineering%20%26%20AI%20Security-1abc9c?style=flat-square&logo=readme&logoColor=white" alt="Currently exploring" />
+</p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frendysanusi/)
-  &nbsp;
-  ![Profile Views](https://komarev.com/ghpvc/?username=frendysanusi&color=blueviolet&style=flat-square&label=Profile+Views)
+🗣️ 🇮🇩 Indonesian, 🇬🇧 English, 🇨🇳 Hokkien · currently learning 🇨🇳 Mandarin & 🇰🇷 Korean
 
-</div>
+### 💼 Work
 
----
+- [MarinaChain ↗](https://www.marinachain.io/) [Singapore–South Korea] **(Mar 25–Present)** — Software Engineer
+- Internships
+  - [Jaswita Jabar ↗](https://jaswitajabar.co.id/) **(Sep 24–Dec 24)** — Software Engineer
+  - [Eresto ↗](https://eresto.id/) **(Jun 24–Aug 24)** — Software Engineer
 
-## 👨‍💻 About Me
+### 📫 Connect with me
 
-I live the coder life — usually found in front of my laptop, building things and breaking them *(for learning, of course 😄)*. My main focus is **software engineering**, but I'm also exploring the world of **cybersecurity** and enjoying **CTF challenges** along the way.
-
----
-
-## 🏢 Experience
-
-| Role | Company | Duration |
-| :--- | :---: | :---: |
-| Backend Engineer | [Marina Chain ↗](https://www.marinachain.io/) | Mar 2025 – Present |
-| Software Engineer Intern | [Jaswita Jabar ↗](https://jaswitajabar.co.id/) | Sep 2024 – Dec 2024 |
-| Software Engineer Intern | [Eresto ↗](https://eresto.id/) | Jun 2024 – Aug 2024 |
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-[![Languages](https://skillicons.dev/icons?i=python,ts,js,php,go,java,dart,c,cpp,ruby&theme=dark)](https://skillicons.dev)
-
-**Frontend**
-
-[![Frontend](https://skillicons.dev/icons?i=nextjs,react,vue,tailwind&theme=dark)](https://skillicons.dev)
-
-**Backend**
-
-[![Backend](https://skillicons.dev/icons?i=fastapi,django,express,flask,laravel,prisma,redis,firebase&theme=dark)](https://skillicons.dev)
-
-![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
-![GORM](https://img.shields.io/badge/GORM-00ADD8?style=flat-square&logo=go&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-
-**Mobile**
-
-[![Mobile](https://skillicons.dev/icons?i=react,flutter&theme=dark)](https://skillicons.dev)
-
-**Databases**
-
-[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,supabase&theme=dark)](https://skillicons.dev)
-
-**DevOps & Cloud**
-
-[![DevOps](https://skillicons.dev/icons?i=docker,aws,githubactions,sentry&theme=dark)](https://skillicons.dev)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=frendysanusi&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frendysanusi&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0070f3,50:112240,100:0a192f&height=100&section=footer" />
-</div>
+<p align="left">
+  <a href="https://frendysanusi.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxwYXRoIGQ9Ik0yIDEyaDIwTTEyIDJhMTUgMTUgMCAwIDEgMCAyMGExNSAxNSAwIDAgMSAwLTIwIi8+PC9zdmc+" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/frendysanusi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
